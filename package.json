@@ -1,0 +1,13 @@
+{
+  "name": "osmdrawing",
+  "private": true,
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "scripts": {
+    "ts-watcher": "npx tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+
+}
